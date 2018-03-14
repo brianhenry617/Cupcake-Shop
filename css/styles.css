@@ -1,0 +1,67 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  color: purple;
+  font-style: oblique;
+}
+
+body{
+  background-image: url("https://cdn.shopify.com/s/files/1/1811/8183/products/1000-Pastel_Party_1024x1024.jpg?v=1497718675.jpj");
+  background-size: 150%;
+  background-width: 150%;
+}
+
+img{
+  height: 200px;
+  width: 200px;
+}
+
+.noticeable {
+  font-size: 50px;
+
+}
+
+h1{
+  font-size: 100px;
+  font-style: oblique;
+  text-align: center;
+  color: #50117a;
+  text-decoration: underline;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+h2{
+  font-size: 60px;
+  font-family: cursive;
+  text-align: center;
+  text-shadow: 4px 4px 4px #000000;
+  color: #bf1e2e;
+}
+
+h3{
+  font-weight: bold;
+  font-size: 60px;
+  color: #317873;
+}
+ p {
+   font-size: 25px;
+   border: 25px solid gray;
+   padding: 15px;
+   margin: 25px;
+   color: black;
+   font-weight: bold;
+   font-stretch: expanded;
+   box-sizing: content-box;
+   box-shadow: 10px 10px 10px;
+   background: grey;
+
+ }
+
+ li {
+   color: black;
+   font-size: 25px;
+   font-weight: bold;
+ }
